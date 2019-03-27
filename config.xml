@@ -11,9 +11,10 @@
 	Aplicacion que muestra informacion sobre la especialidad de Tecnico en Programacion CBTis.
 	</descripcion>
 	
-	<author href="http://build.phonegap.com" email="vegagomezenriquecbtis16@gmail.com"
+	<author href="http://build.phonegap.com" email="vegagomezenriquecbtis16@gmail.com">
 	Enrique Vega Gomez
 	</author>
+	
 	<!--Personalizar la aplicacion y plataforma -->
 	<preference name="orientation" value="default"/>
 	<!--<preference name="orientation" value="portrait"/>
